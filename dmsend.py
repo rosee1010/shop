@@ -25,7 +25,7 @@ async def on_message(message):
             else:
                 try:
                     msg = message.content[4:]
-                    if message.author.id == 디스코드ID를 적기!!:
+                    if message.author.id ==  592277703080542230:
                         embed = discord.Embed(colour=0x1DDB16, timestamp=message.created_at, title="로씨SHOP DM공지
                         embed.add_field(name="로씨SHOP 이벤트공지"alue=msg, inline=True)
                         embed.set_footer(text=f"592277703080542230")
